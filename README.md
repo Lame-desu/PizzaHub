@@ -4,7 +4,7 @@ A fully responsive and dynamic pizza ordering web app built with modern React to
 
 ## 🚀 Live Demo
 
-[Visit Live Site](https://your-live-site-link.com) <!-- Replace with your live link -->
+[Visit Live Site](https://your-live-site-link.com) 
 
 ## ⚙️ Tech Stack
 
@@ -25,7 +25,7 @@ A fully responsive and dynamic pizza ordering web app built with modern React to
 ## 🛠️ Install & Run
 
 ```bash
-git clone https://github.com/your-username/pizzahub.git
+git clone [https://github.com/your-username/pizzahub.git](https://github.com/Lame-desu/PizzaHub.git)
 cd pizzahub
 npm install
 npm run dev
